@@ -1,0 +1,33 @@
+.container {
+  position: relative;
+  padding-top: 30px;
+}
+.text1 {
+  position: absolute;
+  top: 0px;
+  background: #fff;
+  padding: 0 10px;
+}
+.text2 {
+  position: absolute;
+  top: 2px;
+bottom: 0px;
+margin: auto;
+left: 0;
+right: 0;
+background: #fff;
+padding: 0 10px;
+max-width: max-content;
+}
+
+.text3 {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  background: #fff;
+  padding: 0 10px;
+}
+
+.iconFlyRotate {
+  transform: rotate('90deg');
+}
