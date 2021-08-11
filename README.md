@@ -56,10 +56,3 @@ Single-page приложение на **React**, позволяющее опре
 ## Стек технологий
 
 React, Redux, ExpressJS, Node.js, MongoDB (Mongoose), Material-UI, API-Aviasales, сторонние библиотеки для добавления необходимого функционала.
-
-## Команда
-
-+ [Евгений Ф.](https://github.com/EvgenyChandler)
-+ [Кирилл М.](https://github.com/Kirill-Mukhortov)
-+ [Андрей З.](https://github.com/andreyzvoznikov)
-+ [Алексей О.](https://github.com/Alexoch-AI)
